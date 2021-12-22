@@ -1,4 +1,4 @@
-package com.example.lifeweb.view
+package com.example.lifeweb.screens.details
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
