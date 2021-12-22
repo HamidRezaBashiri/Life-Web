@@ -1,4 +1,4 @@
-package com.example.lifeweb.model;
+package com.example.lifeweb.repository;
 
 public class Products {
     private String product_name;
